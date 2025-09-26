@@ -1,4 +1,4 @@
-# chackr-ui-001-first-example
+# chakra-ui-001-first-example
 
 ## Stack:
 
